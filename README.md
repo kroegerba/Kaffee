@@ -8,7 +8,7 @@ Device 1: EV3895 (NVIDIA High Definition     ←    Monitor
 ```
 ## Kaffee.exe
 [Kaffee.exe](https://github.com/kroegerba/Kaffee/raw/refs/heads/master/Kaffee/bin/Release/net8.0/win-x64/publish/Kaffee.exe) spielt zufällig ausgewählte WAV/MP3-Dateien aus dem benachbarten `Samples` Ordner ab.  
-Als erster Paramter kann ein Audioausgabegerät anhand seiner Device Id festgelegt werden.
+Als erster Parameter kann ein Audioausgabegerät anhand seiner Device Id festgelegt werden.
 #### Beispiel
 - Normales Audio läuft auf dem Headset
 - Skype/Teams klingeln zusätzlich auf dem Monitor
